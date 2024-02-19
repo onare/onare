@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onare" alt="onare" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [onaredev.net](onaredev.net)
+
 - 🔭 I’m currently working on [WaoTools](waotools.com)
 
-- 🌱 I’m currently learning **GraphQL, NodeJS and NextJS**
+- 🌱 I’m currently learning **Web3 and Solidity**.
 
 - 👯 I’m looking to collaborate on **Any React-Next-Node~JS**
 
-- 👨‍💻 All of my projects are available at [onaredev.com](onaredev.com)
+- 💬 Ask me about **React, NextJS, MaterialUI, MySQL**
 
-- 💬 Ask me about **react, MaterialUI, MySQL**
-
-- 📫 How to reach me **onaredev@gmail.com**
+- 📫 How to reach me **onaredev@gmail.com** or **onare@onadev.net**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/onaare/](https://www.linkedin.com/in/onaare/)
 
